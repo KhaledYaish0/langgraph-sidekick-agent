@@ -1,5 +1,5 @@
 
-# LangGraph Sidekick Agent (Single File)
+# LangGraph Sidekick Agent
 
 A single-file **LangGraph** agent (**worker + evaluator**) with **Gradio UI**, **MemorySaver** checkpointing, and built-in tools.
 
