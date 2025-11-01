@@ -1,0 +1,26 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# envs
+.venv/
+.env
+.env.*
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+Thumbs.db
+
+# runtime db
+memory.db
+memory.db-*
+*.sqlite
+*.db
